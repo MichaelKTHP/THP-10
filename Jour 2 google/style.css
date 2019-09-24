@@ -68,6 +68,16 @@ input{
     min-width: 980px;
 
    }
+.footerleft{
+   	display: flex;
+   	align-items: flex-end;
+   }
+   .footerright{
+   
+      	display: flex;
+      	
+      	padding-left: 600px
+   }
 
 
-}
+
