@@ -36,6 +36,7 @@ a {
 	justify-content: center;
 	}
 input{
+	margin:auto;
 	 height:34px;
 	 width: 487px;
 	flex: 1;
