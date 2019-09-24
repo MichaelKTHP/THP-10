@@ -1,0 +1,22 @@
+header {float: right;
+
+
+}
+header button 
+{background: #4484F1;
+color:white;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.main {
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	}
+.main input{
+	height : 34;
+	width: 487;
+}
